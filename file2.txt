@@ -1,5 +1,0 @@
-total 28
-drwxr-xr-x  4 root root  4096 sep  4 00:36 .
-drwxr-xr-x 22 root root  4096 sep  4 00:36 ..
-drwxr-x--- 25 cdx  cdx   4096 sep  8 14:11 cdx
-drwx------  2 root root 16384 sep  4 00:32 lost+found
